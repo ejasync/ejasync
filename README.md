@@ -1,12 +1,13 @@
-# Halo semua! 
+### Hi! 👋 I'm Eja.
 
-Perkenalkan nama saya **Eja Sapario**.<br>
+An informatics engineering student who loves technology and finance! I've enjoyed Python and make it the main language in creating a project.
 
-Saya seorang **Mahasiswa** di [Politeknik Negeri Pontianak](https://polnep.ac.id/).<br>
+I am currently active as a student in <a href="https://polnep.ac.id/">Pontianak State Polytechnic</a> and <a href="https://github.com/dicodingacademy">@dicodingacademy</a>
 
-Pemilik Bisnis online dengan 2000+ Transaksi | Mahasiswa Informatika
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://id.linkedin.com/in/eja-sapario-a27327243) ku ya.
+- 🔭 I am currently an Business Owner with 2K + Transaction
+- 🌱 I’m currently learning about Cyber Security & Cloud Computing
+- 📫 How to reach me: instagram @ejasapario
+- ⚡ Fun fact: Crypto Trader
 
 ### Github Statistic
 <p align="left">
